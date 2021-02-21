@@ -10,7 +10,7 @@ RPC:即远程过程调用
 
 
 
-![image-20210207113447631](C:\Users\张威威\AppData\Roaming\Typora\typora-user-images\image-20210207113447631.png)
+![image-20210207113447631](https://github.com/zww308/Test-RPC/blob/master/image-20210207113447631.png)
 
 ![image-20210207113529271](C:\Users\张威威\AppData\Roaming\Typora\typora-user-images\image-20210207113529271.png)
 
