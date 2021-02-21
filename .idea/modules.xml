@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC.iml" filepath="$PROJECT_DIR$/Test-RPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC-client/Test-RPC-client.iml" filepath="$PROJECT_DIR$/Test-RPC-client/Test-RPC-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC-codec/Test-RPC-codec.iml" filepath="$PROJECT_DIR$/Test-RPC-codec/Test-RPC-codec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC-common/Test-RPC-common.iml" filepath="$PROJECT_DIR$/Test-RPC-common/Test-RPC-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC-example/Test-RPC-example.iml" filepath="$PROJECT_DIR$/Test-RPC-example/Test-RPC-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC-proto/Test-RPC-proto.iml" filepath="$PROJECT_DIR$/Test-RPC-proto/Test-RPC-proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC-server/Test-RPC-server.iml" filepath="$PROJECT_DIR$/Test-RPC-server/Test-RPC-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-RPC-transport/Test-RPC-transport.iml" filepath="$PROJECT_DIR$/Test-RPC-transport/Test-RPC-transport.iml" />
+    </modules>
+  </component>
+</project>
